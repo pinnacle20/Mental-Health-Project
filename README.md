@@ -12,9 +12,9 @@ This condition is worsen by the fact that they don’t open up about their probl
 
 ## The problem SpeakUp solves:
 Expert Chat: Users can have one-to-one online conversations with different experts.
-###Chat with Lakshman: It is an AI chatbot that provides instant solutions to commonly asked questions.
-###Community Chat: A forum for people dealing with the same problem. Each user can express themselves anonymously.
-###Services: Based on their current location, users can find the list of available experts and their distance from the user. Users can book an appointment or consult for therapy or counseling.
+<br>Chat with Lakshman: It is an AI chatbot that provides instant solutions to commonly asked questions.
+<br>Community Chat: A forum for people dealing with the same problem. Each user can express themselves anonymously.
+<br>Services: Based on their current location, users can find the list of available experts and their distance from the user. Users can book an appointment or consult for therapy or counseling.
 
 ## Demo Video Link:
 
